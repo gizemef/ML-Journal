@@ -20,5 +20,5 @@ etc...
 
 # Collecting Data of Movies 
 
-imdb - movies by genre [Link](https://www.imdb.com/feature/genre/?ref_=nv_ch_gr)
-rottentomatoes - top 100 movies by genre  [Link](https://www.rottentomatoes.com/top/bestofrt/top_100_western_movies/)
+-imdb - movies by genre [Link](https://www.imdb.com/feature/genre/?ref_=nv_ch_gr)
+-rottentomatoes - top 100 movies by genre  [Link](https://www.rottentomatoes.com/top/bestofrt/top_100_western_movies/)

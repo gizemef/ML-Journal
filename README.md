@@ -1,3 +1,3 @@
 # ML Journal
 
-Machine Learning in Architecture Journal
+## Machine Learning in Architecture Journal

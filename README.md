@@ -2,4 +2,4 @@
 
 ## Machine Learning in Architecture Journal
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![mandalorian](https://github.com/gizemef/ML-Journal/blob/master/mandalorian.jpg)

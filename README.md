@@ -1,6 +1,6 @@
 # ML in Architecture
 
-Hello! I'm Gizem and This is my Journal about Machine Learning in Architecture 
+Hello! I'm Gizem and This is my Journal which is about Machine Learning in Architecture 
 
 ![5dd2cac879d757330b3ab572](https://github.com/gizemef/ML-Journal/blob/master/5dd2cac879d757330b3ab572.jpg)
 

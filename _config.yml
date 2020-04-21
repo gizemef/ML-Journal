@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 
-title: [ML-Journal]
-description: [Machine Learning in Architecture]
+title: ML-Journal
+description: Machine Learning in Architecture
 
-logo: [https://github.com/gizemef/ML-Journal/blob/master/8378659_0.png]
-google_analytics: [Your Google Analytics tracking ID]
+logo: /ML-Journal/blob/master/8378659_0.png
+google_analytics: 
+

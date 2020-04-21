@@ -16,9 +16,10 @@ etc...
 
 ## How to collect your deep learning dataset
 
-[Link](https://towardsdatascience.com/how-to-collect-your-deep-learning-dataset-2e0eefc0ba24)
+- How to collect your deep learning dataset [Link](https://towardsdatascience.com/how-to-collect-your-deep-learning-dataset-2e0eefc0ba24)
+- Collecting Movie Data [Link](https://towardsdatascience.com/collecting-movie-data-445ca1ead8e5)
 
-## Collecting Data of Movies 
+## Url's for Movie Data
 
 - imdb - movies by genre [Link](https://www.imdb.com/feature/genre/?ref_=nv_ch_gr)
 - rottentomatoes - top 100 movies by genre  [Link](https://www.rottentomatoes.com/top/bestofrt/top_100_western_movies/)

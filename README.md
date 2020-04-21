@@ -8,8 +8,8 @@ Hello! I'm Gizem and This is my Machine Learning in Architecture Journal
 
 [Link](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/) 
 
-MNIST - handwritten digits - 30 MB
-COCO - object detection - 25 GB
-ImageNet - dataset of images - 150GB
-Open Images - image URL dataset - 500 GB
+1. MNIST - handwritten digits - 30 MB
+2. COCO - object detection - 25 GB
+3. ImageNet - dataset of images - 150GB
+4. Open Images - image URL dataset - 500 GB
 etc...

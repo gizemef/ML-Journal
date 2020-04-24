@@ -28,23 +28,26 @@ etc...
 ### Imdb datasets 
 Documentation for these data files can be found on [Link](http://www.imdb.com/interfaces/)
 
-**title.basics.tsv.gz** [Link](name.basics.tsv.gz)
+_**title.basics.tsv.gz**_ [Link](name.basics.tsv.gz)
+
 Contains the following information for titles: *tconst (string), titleType (string), primaryTitle (string), originalTitle (string), isAdult (boolean), startYear (YYYY), endYear (YYYY), runtimeMinutes, genres (string array)*
 
- **title.akas.tsv.gz** [Link](title.akas.tsv.gz)
+_**title.akas.tsv.gz**_ [Link](title.akas.tsv.gz)
+
 Contains the following information for titles: *titleId (string), ordering (integer), title (string), region (string), language (string), types (array), attributes (array), isOriginalTitle (boolean)*
 
-**title.principals.tsv.gz** [Link](title.principals.tsv.gz) 
+_**title.principals.tsv.gz**_ [Link](title.principals.tsv.gz)
+
 Contains the principal cast/crew for titles: *tconst (string), ordering (integer), nconst (string), category (string), job (string), characters (string)*
 
 
-## Kaggle Datasets
+### Kaggle Datasets
 
-**Movie Genre from its Poster** [Link](https://www.kaggle.com/neha1703/movie-genre-from-its-poster)
+_**Movie Genre from its Poster**_ [Link](https://www.kaggle.com/neha1703/movie-genre-from-its-poster)
 
 The movie posters are obtained from IMDB website. The collected dataset contains *IMDB Id, IMDB Link, Title, IMDB Score, Genre and link* to download movie posters. Each Movie poster can belong to at least one genre and can have at most 3 genre labels assigned to it. As the dataset also includes the IMDB score, it would be really interesting to see if movie poster is related to rating.
 
-**IMDB data from 2006 to 2016** [Link](https://www.kaggle.com/PromptCloudHQ/imdb-data)
+_**IMDB data from 2006 to 2016**_ [Link](https://www.kaggle.com/PromptCloudHQ/imdb-data)
 
 Here's a data set of 1,000 most popular movies on IMDB in the last 10 years. The data points included are:
 *Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore*

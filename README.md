@@ -29,7 +29,7 @@ etc...
 Documentation for these data files can be found on [Link](http://www.imdb.com/interfaces/)
 
 **title.basics.tsv.gz** [Link](name.basics.tsv.gz)
-Contains the following information for titles: *tconst (string), titleType (string), primaryTitle (string), originalTitle (string), isAdult (boolean), startYear (YYYY), endYear (YYYY), runtimeMinutes, genres (string array)
+Contains the following information for titles: *tconst (string), titleType (string), primaryTitle (string), originalTitle (string), isAdult (boolean), startYear (YYYY), endYear (YYYY), runtimeMinutes, genres (string array)*
 
  **title.akas.tsv.gz** [Link](title.akas.tsv.gz)
 Contains the following information for titles: *titleId (string), ordering (integer), title (string), region (string), language (string), types (array), attributes (array), isOriginalTitle (boolean)*

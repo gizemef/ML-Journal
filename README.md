@@ -66,13 +66,13 @@ Documentation for these data files can be found on [Link](http://www.imdb.com/in
 - characters (string) - the name of the character played if applicable, else '\N'
 
 
-##Kaggle Datasets
+## Kaggle Datasets
 
 **Movie Genre from its Poster** [Link](https://www.kaggle.com/neha1703/movie-genre-from-its-poster)
 
-The movie posters are obtained from IMDB website. The collected dataset contains IMDB Id, IMDB Link, Title, IMDB Score, Genre and link to download movie posters. Each Movie poster can belong to at least one genre and can have at most 3 genre labels assigned to it. As the dataset also includes the IMDB score, it would be really interesting to see if movie poster is related to rating.
+The movie posters are obtained from IMDB website. The collected dataset contains *IMDB Id, IMDB Link, Title, IMDB Score, Genre and link* to download movie posters. Each Movie poster can belong to at least one genre and can have at most 3 genre labels assigned to it. As the dataset also includes the IMDB score, it would be really interesting to see if movie poster is related to rating.
 
 **IMDB data from 2006 to 2016** [Link](https://www.kaggle.com/PromptCloudHQ/imdb-data)
 
 Here's a data set of 1,000 most popular movies on IMDB in the last 10 years. The data points included are:
-- Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore
+- *Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore

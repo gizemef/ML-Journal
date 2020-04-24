@@ -28,34 +28,14 @@ etc...
 ### Imdb datasets 
 Documentation for these data files can be found on [Link](http://www.imdb.com/interfaces/)
 
-[Link](name.basics.tsv.gz) **title.basics.tsv.gz** - Contains the following information for titles:
-- tconst (string)
-- titleType (string)
-- primaryTitle (string)
-- originalTitle (string)
-- isAdult (boolean)
-- startYear (YYYY)
-- endYear (YYYY)
-- runtimeMinutes
-- genres (string array)
+**title.basics.tsv.gz** [Link](name.basics.tsv.gz)
+Contains the following information for titles: *tconst (string), titleType (string), primaryTitle (string), originalTitle (string), isAdult (boolean), startYear (YYYY), endYear (YYYY), runtimeMinutes, genres (string array)
 
-[Link](title.akas.tsv.gz) **title.akas.tsv.gz** - Contains the following information for titles:
-- titleId (string)
-- ordering (integer) 
-- title (string) 
-- region (string) 
-- language (string) 
-- types (array)
-- attributes (array)
-- isOriginalTitle (boolean)
+ **title.akas.tsv.gz** [Link](title.akas.tsv.gz)
+Contains the following information for titles: *titleId (string), ordering (integer), title (string), region (string), language (string), types (array), attributes (array), isOriginalTitle (boolean)*
 
-[Link](title.principals.tsv.gz) **title.principals.tsv.gz** – Contains the principal cast/crew for titles
-- tconst (string)
-- ordering (integer)
-- nconst (string)
-- category (string)
-- job (string) 
-- characters (string)
+**title.principals.tsv.gz** [Link](title.principals.tsv.gz) 
+Contains the principal cast/crew for titles: *tconst (string), ordering (integer), nconst (string), category (string), job (string), characters (string)*
 
 
 ## Kaggle Datasets

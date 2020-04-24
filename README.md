@@ -18,15 +18,13 @@ etc...
 - How to collect your deep learning dataset [Link](https://towardsdatascience.com/how-to-collect-your-deep-learning-dataset-2e0eefc0ba24)
 - Collecting Movie Data [Link](https://towardsdatascience.com/collecting-movie-data-445ca1ead8e5)
 - Movie Posters as a Deep Learning Dataset [Link](https://towardsdatascience.com/movie-posters-81af5707e69a)
+- Movie genre classifier using a dataset created using Google Images [Link](https://towardsdatascience.com/building-a-movie-genre-classifier-using-a-dataset-created-using-google-images-4752f75a1d79)
+- Wandora Imdb Exractor [Link](http://www.wandora.org/wandora/wiki/index.php?title=IMDB_extractor)
 
-## Url's for Movie Data
 
-- imdb - movies by genre [Link](https://www.imdb.com/feature/genre/?ref_=nv_ch_gr)
-- rottentomatoes - top 100 movies by genre  [Link](https://www.rottentomatoes.com/top/bestofrt/top_100_western_movies/)
+## Movie Datasets
 
-# Movie Datasets
-
-## Imdb datasets 
+### Imdb datasets 
 Documentation for these data files can be found on [Link](http://www.imdb.com/interfaces/)
 
 [Link](name.basics.tsv.gz) **title.basics.tsv.gz** - Contains the following information for titles:

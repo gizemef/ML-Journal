@@ -57,17 +57,6 @@ Documentation for these data files can be found on [Link](http://www.imdb.com/in
 - primaryProfession (array of strings)– the top-3 professions of the person
 - knownForTitles (array of tconsts) – titles the person is known for
 
-[Link](title.crew.tsv.gz) **title.crew.tsv.gz** – Contains the director and writer information for all the titles in IMDb. Fields include:
-- tconst (string) - alphanumeric unique identifier of the title
-- directors (array of nconsts) - director(s) of the given title
-- writers (array of nconsts) – writer(s) of the given title
-
-[Link](title.episode.tsv.gz) **title.episode.tsv.gz** – Contains the tv episode information. Fields include:
-- tconst (string) - alphanumeric identifier of episode
-- parentTconst (string) - alphanumeric identifier of the parent TV Series
-- seasonNumber (integer) – season number the episode belongs to
-- episodeNumber (integer) – episode number of the tconst in the TV series
-
 [Link](title.principals.tsv.gz) **title.principals.tsv.gz** – Contains the principal cast/crew for titles
 - tconst (string) - alphanumeric unique identifier of the title
 - ordering (integer) – a number to uniquely identify rows for a given titleId
@@ -76,8 +65,14 @@ Documentation for these data files can be found on [Link](http://www.imdb.com/in
 - job (string) - the specific job title if applicable, else '\N'
 - characters (string) - the name of the character played if applicable, else '\N'
 
-[Link](title.ratings.tsv.gz) **title.ratings.tsv.gz** – Contains the IMDb rating and votes information for titles
-- tconst (string) - alphanumeric unique identifier of the title
-- averageRating – weighted average of all the individual user ratings
-- numVotes - number of votes the title has received
 
+##Kaggle Datasets
+
+**Movie Genre from its Poster** [Link](https://www.kaggle.com/neha1703/movie-genre-from-its-poster)
+
+The movie posters are obtained from IMDB website. The collected dataset contains IMDB Id, IMDB Link, Title, IMDB Score, Genre and link to download movie posters. Each Movie poster can belong to at least one genre and can have at most 3 genre labels assigned to it. As the dataset also includes the IMDB score, it would be really interesting to see if movie poster is related to rating.
+
+**IMDB data from 2006 to 2016** [Link](https://www.kaggle.com/PromptCloudHQ/imdb-data)
+
+Here's a data set of 1,000 most popular movies on IMDB in the last 10 years. The data points included are:
+- Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore

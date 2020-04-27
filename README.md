@@ -46,3 +46,9 @@ The movie posters are obtained from IMDB website. The collected dataset contains
 _**IMDB data from 2006 to 2016**_ [Link](https://www.kaggle.com/PromptCloudHQ/imdb-data)
 Here's a data set of 1,000 most popular movies on IMDB in the last 10 years. The data points included are:
 *Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore*
+
+### The Open Movie Database (OMDb)
+[Link](http://www.omdbapi.com/)
+
+### The Movie database (TMdb)
+[Link](https://developers.themoviedb.org/3/movies/get-movie-images)
